@@ -1,0 +1,10 @@
+{
+  "name": "inventory-tracker-api",
+  "version": "1.2.3",
+  "description": "API for inventory tracking system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  }
+}
